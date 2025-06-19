@@ -102,7 +102,7 @@ This table maps each Location ID to its corresponding name and city, helping ana
 ## Tools & Technologies Used
 
 * Power BI Desktop
-* DAX (Data Analysis Expressions)
+* DAX 
 * Power Query
 * Interactive Visuals & Bookmarks
 * Drill-through & Page Navigation
