@@ -109,19 +109,6 @@ This table maps each Location ID to its corresponding name and city, helping ana
   
 ---
 
-## Folder Structure
-Uber-Trip-Analysis/
-├── README.md
-├── Uber_Trip_Analysis.pbix
-├── Trip_Details.xlsx
-├── Location_Table.xlsx
-├── screenshots/
-│   ├── overview.png
-│   └── time_analysis.png
-
-
----
-
 ## Contact
 
 For questions or collaboration:
