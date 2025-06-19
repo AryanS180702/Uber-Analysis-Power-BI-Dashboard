@@ -104,7 +104,7 @@ This table maps each Location ID to its corresponding name and city, helping ana
 * Power Query
 * Interactive Visuals & Bookmarks
 * Drill-through & Page Navigation
-* 
+  
 ---
 
 ## Contact
