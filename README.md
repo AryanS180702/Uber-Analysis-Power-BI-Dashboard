@@ -1,6 +1,8 @@
 # Uber Trip Analysis Dashboard
 
 An interactive Power BI dashboard to explore trip volume, revenue trends, and trip efficiency across various cities.
+![Dashboard Overview](screenshots/overview.png)
+
 
 ---
 
