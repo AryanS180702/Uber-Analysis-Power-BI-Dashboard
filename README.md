@@ -109,6 +109,20 @@ This table maps each Location ID to its corresponding name and city, helping ana
   
 ---
 
+## Folder Structure
+Uber Analysis Power BI Dashboard/
+├── README.md # Project overview and documentation
+├── UBER_ANALYSIS.pbix # Power BI dashboard file
+├── datasets/ # Raw data used in the dashboard
+│ ├── Location Table.xlsx
+│ └── Uber Trip Details.xlsx
+├── screenshots/ # Dashboard preview images
+│ ├── overview.png
+│ ├── time_analysis.png
+│ └── details.png
+
+---
+
 ## Contact
 
 For questions or collaboration:
